@@ -3,8 +3,7 @@
 // https://getcomposer.org/doc/01-basic-usage.md#autoloading
 require_once __DIR__ . "/../vendor/autoload.php";
 
-use App\SayIt;
-
+use App\Model\SayIt;
 use function Db\db;
 use function Db\query;
 
