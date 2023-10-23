@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "files": [
-          "src/Model/db_functions.php"
+          "src/db_functions.php"
         ],
         "psr-4": {
             "App\\": "src/"

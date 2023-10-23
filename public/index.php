@@ -1,5 +1,11 @@
 <?php
 
+
+require '../src/Views/functions.php';
+
+require '../src/Views/router.php';
+
+
 // https://getcomposer.org/doc/01-basic-usage.md#autoloading
 require_once __DIR__ . "/../vendor/autoload.php";
 
